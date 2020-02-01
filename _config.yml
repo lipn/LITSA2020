@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "http://lipn.github.io/LITSA2020"
+baseurl: "/LITSA2020"
+url: "https://lipn.github.io/"
 title: LITSA2020 # site's title
 description: "ICDM 2020 Workshop on Large-scale Industrial Time Series Analysis" # used by search engines
 

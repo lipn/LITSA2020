@@ -9,14 +9,14 @@ description: "ICDM 2020 Workshop on Large-scale Industrial Time Series Analysis"
 theme_settings:
   # Meta
   title: 1st Workshop on Large-scale Industrial Time Series Analysis # blog's title
-  avatar: #assets/img/
-  favicon: #assets/favicon.png
+  avatar: assets/img/logo.png
+  favicon: assets/img/favicon.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>November 17-20, 2020. Hosted by the IEEE ICDM 2020 conference in Sorrento, Italy.</p>
-  #header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Draft website.<br/>November 17-20, 2020. Hosted by the IEEE ICDM 2020 conference in Sorrento, Italy.</p>
+  header_text_feature_image: assets/img/graph.jpg
   footer_text: >
    Organized with love by <a href="https://lipn.univ-paris13.fr/">LIPN (Université Paris 13)</a>.<br/>
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

@@ -15,10 +15,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Draft website.<br/>November 17-20, 2020. Hosted by the IEEE ICDM 2020 conference in Sorrento, Italy.</p>
+     <p>November 17, 2020. Hosted by the <a href="http://icdm2020.bigke.org/">IEEE ICDM 2020</a> conference in Sorrento, Italy.</p>
   header_text_feature_image: assets/img/graph.jpg
   footer_text: >
-   Organized with love by <a href="https://lipn.univ-paris13.fr/">LIPN (Université Paris 13)</a>.<br/>
+   Organized with love by <a href="https://lipn.univ-paris13.fr/">LIPN (Université Sorbonne Paris Nord)</a>.<br/>
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons

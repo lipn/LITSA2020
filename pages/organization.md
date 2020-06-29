@@ -7,10 +7,10 @@ hide: false
 
 # Organization committee
 
-* [Florent Forest](http://florentfo.rest/), Safran Aircraft Engines / LIPN - Université Sorbonne Paris Nord, France
-* [Étienne Goffinet](https://www.linkedin.com/in/etiennegoffinet/), Renault / LIPN - Université Sorbonne Paris Nord, France
-* [Hanene Azzag](https://sites.google.com/site/haneneazzag/), LIPN - Université Sorbonne Paris Nord, France
-* [Mustapha Lebbah](https://lipn.univ-paris13.fr/~lebbah/), LIPN - Université Sorbonne Paris Nord, France
+* [Florent Forest](http://florentfo.rest), Safran Aircraft Engines / LIPN - Université Sorbonne Paris Nord, France
+* [Étienne Goffinet](http://etiennegoffi.net), Renault / LIPN - Université Sorbonne Paris Nord, France
+* [Hanene Azzag](https://sites.google.com/site/haneneazzag), LIPN - Université Sorbonne Paris Nord, France
+* [Mustapha Lebbah](https://lipn.univ-paris13.fr/~lebbah), LIPN - Université Sorbonne Paris Nord, France
 
 The organizing team can be contacted by e-mail at `lastname@lipn.univ-paris13.fr`.
 

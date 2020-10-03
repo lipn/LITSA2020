@@ -24,3 +24,5 @@ The organizing team can be contacted by e-mail at `lastname@lipn.univ-paris13.fr
 * [Jean-Charles Lamirel](https://www.researchgate.net/profile/J-C_Lamirel), LORIA Nancy, France
 * [Vincent Lemaire](http://www.vincentlemaire-labs.fr/), Orange Labs, France
 * [Pierre-François Marteau](https://people.irisa.fr/Pierre-Francois.Marteau/), IRISA - Université Bretagne Sud, France
+* [Anthony Coutant](http://anthonycoutant.me), LIPN - Université Sorbonne Paris Nord, France
+* [Mohamed Oualid Attaoui](https://www.researchgate.net/profile/Attaoui_Oualid), LIPN - Université Sorbonne Paris Nord, France

@@ -11,5 +11,5 @@ Deadlines are at 11:59PM <span style="color: red">USA Eastern Standard Time</spa
 
 * Workshop paper submissions: ~~August 24~~ <span style="color: red">August 31</span>, 2020
 * Workshop paper notification: September 17, 2020
-* Camera-ready deadline and copyright forms: September 24, 2020
-* Workshop date: November 17, 2020
+* Camera-ready deadline and copyright forms: ~~September 24~~ <span style="color: red">September 27</span>, 2020
+* **Workshop date: November 17, 2020**

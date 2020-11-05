@@ -25,3 +25,5 @@ This includes but is not restricted to the following topics:
 * Interactive mining techniques
 * Collaborative methods
 * Future research challenges of time series analysis
+
+Check the schedule [on this page](/program)!
